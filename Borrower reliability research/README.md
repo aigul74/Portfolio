@@ -1,3 +1,3 @@
 ## Исследование надежности заемщиков. ##
 
-[HTML](///home/aigul/Загрузки/67f13a7e-98ca-41e6-bde1-9fbd7fe6744a.html) [Ipynb](Borrower reliability research/Project1.html)
+[HTML](file:///home/aigul/Project1.html) [Ipynb](Borrower reliability research/Project1.html)
