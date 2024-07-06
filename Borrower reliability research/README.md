@@ -1,3 +1,3 @@
 ## Исследование надежности заемщиков. ##
 
-[HTML](///home/aigul/Загрузки/Project1.html) [Ipynb] (////home/aigul/Загрузки/Исследование надёжности заёмщиков1.ipynb)
+[HTML](///home/aigul/Загрузки/Project1.html) [Ipynb] (///home/aigul/Загрузки/Исследование надёжности заёмщиков1.ipynb)
