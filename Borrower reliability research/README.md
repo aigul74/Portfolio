@@ -1,3 +1,3 @@
 ## Исследование надежности заемщиков. ##
 
-[HTML](///home/aigul/Загрузки/67f13a7e-98ca-41e6-bde1-9fbd7fe6744a.html) [Ipynb](8890/notebooks/Исследование%20надёжности%20заёмщиков1.ipynb)
+[HTML](///home/aigul/Загрузки/67f13a7e-98ca-41e6-bde1-9fbd7fe6744a.html) [Ipynb](/home/aigul/Загрузки/Исследование надёжности заёмщиков1.ipynb)
